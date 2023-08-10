@@ -1,7 +1,7 @@
 include ../../Makefile.inc
 
 MODDIR = .
-MODNAME = vendorid-productid-modname
+MODNAME = cafebabe-2a37-uart-module
 
 COMMON_CFLAGS = -ffreestanding             \
 	 -fno-stack-protector          \
